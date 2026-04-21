@@ -24,20 +24,20 @@ The dataset includes the following key components:
    - Gross Profit
    - Operating Expenses (Opex)
 2. EBITDA
-  - Cash Flow
-  - Cash Inflows
-  - Cash Outflows
-  - Net Cash
+   - Cash Flow
+   - Cash Inflows
+   - Cash Outflows
+   - Net Cash
 3. Sales Data
-  - Product/Service
-  - Region
-  - Month
+   - Product/Service
+   - Region
+   - Month
 4. Working Capital
-  - Receivables Aging (Days)
-  - Payables Aging (Days)
+   - Receivables Aging (Days)
+   - Payables Aging (Days)
 5. Budgeting
-  - Revenue Budget
-  - Budget Variance (%)
+   - Revenue Budget
+   - Budget Variance (%)
 
 ### Data Modeling
 A Date Table was created to enable time-based analysis.
@@ -58,9 +58,9 @@ Key Features:
 - Receivables aging indicated potential delays in collections
 
 ###  Tools Used
-Microsoft Power BI
-Data Modeling
-DAX (Data Analysis Expressions)
+- Microsoft Power BI
+- Data Modeling
+- DAX (Data Analysis Expressions)
 
 ### Dashboard Features
 1. KPI Cards
@@ -79,12 +79,12 @@ Monthly trend analysis
    - Helps track financial performance against targets
   
 4. Cash Flow Waterfall
-Visualizes:
+   - Visualizes:
    - Cash Inflows
    - Cash Outflows
    - Net Cash position
    - Receivables Aging
-Categorized into buckets:
+- Categorized into buckets:
    - 0–15 days
    - 16–30 days
    - 31–45 days
